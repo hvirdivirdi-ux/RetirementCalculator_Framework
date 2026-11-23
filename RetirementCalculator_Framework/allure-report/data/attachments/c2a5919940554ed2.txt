@@ -1,0 +1,2 @@
+[2026-11-23T12:04:09.469Z] PASSED: Verify user is able to submit the form with only the required fields
+Duration: 8122 ms

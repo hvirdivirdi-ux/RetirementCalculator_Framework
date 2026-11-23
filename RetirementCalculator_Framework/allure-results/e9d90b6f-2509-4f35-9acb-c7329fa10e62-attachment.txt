@@ -1,0 +1,2 @@
+[2026-11-23T12:04:33.412Z] PASSED: Verify user is able to submit the form with all the fields but without default adjustments
+Duration: 13409 ms

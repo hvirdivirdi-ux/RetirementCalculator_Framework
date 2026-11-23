@@ -1,0 +1,36 @@
+[2026-11-23T12:04:01.342Z] START: Verify user is able to submit the form with only the required fields
+[2026-11-23T12:04:09.469Z] PASSED: Verify user is able to submit the form with only the required fields
+Duration: 8122 ms
+
+Screenshot saved: C:\Users\hvirdi\source\repos\RetirementCalculator_Framework\reports\screenshots\Verify-user-is-able-to-submit-the-form-with-only-the-required-fields-25236-1795435449474.png
+
+[2026-11-23T12:04:09.712Z] START: Verify Additional Social Security fields display/hide based on Social Security benefits toggle
+[2026-11-23T12:04:19.561Z] PASSED: Verify Additional Social Security fields display/hide based on Social Security benefits toggle
+Duration: 9842 ms
+
+Screenshot saved: C:\Users\hvirdi\source\repos\RetirementCalculator_Framework\reports\screenshots\Verify-Additional-Social-Security-fields-display-hide-based-on-Social-Security-benefits-toggle-25236-1795435459573.png
+
+[2026-11-23T12:04:19.977Z] START: Verify user is able to submit the form with all the fields but without default adjustments
+[2026-11-23T12:04:33.412Z] PASSED: Verify user is able to submit the form with all the fields but without default adjustments
+Duration: 13409 ms
+
+Screenshot saved: C:\Users\hvirdi\source\repos\RetirementCalculator_Framework\reports\screenshots\Verify-user-is-able-to-submit-the-form-with-all-the-fields-but-without-default-adjustments-25236-1795435473420.png
+
+[2026-11-23T12:04:33.734Z] START: Verify that Adjusted default values are saved correctly
+[2026-11-23T12:04:48.469Z] PASSED: Verify that Adjusted default values are saved correctly
+Duration: 14729 ms
+
+Screenshot saved: C:\Users\hvirdi\source\repos\RetirementCalculator_Framework\reports\screenshots\Verify-that-Adjusted-default-values-are-saved-correctly-25236-1795435488470.png
+
+[2026-11-23T12:04:48.595Z] START: Verify user is able to fill the form with adjusted default values and submit it successfully
+[2026-11-23T12:05:04.763Z] PASSED: Verify user is able to fill the form with adjusted default values and submit it successfully
+Duration: 16161 ms
+
+Screenshot saved: C:\Users\hvirdi\source\repos\RetirementCalculator_Framework\reports\screenshots\Verify-user-is-able-to-fill-the-form-with-adjusted-default-values-and-submit-it-successfully-25236-1795435504765.png
+
+[2026-11-23T12:05:04.946Z] START: Verify required field validations on pre-retirement calculator website and proper error messages are displayed
+[2026-11-23T12:05:21.975Z] PASSED: Verify required field validations on pre-retirement calculator website and proper error messages are displayed
+Duration: 17021 ms
+
+Screenshot saved: C:\Users\hvirdi\source\repos\RetirementCalculator_Framework\reports\screenshots\Verify-required-field-validations-on-pre-retirement-calculator-website-and-proper-error-messages-are-25236-1795435521977.png
+
